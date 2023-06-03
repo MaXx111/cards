@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <Card src={"/src/assets/Jinx_Arcane_6_Render.webp"}>
+      <Card src={"Jinx_Arcane_6_Render.webp"}>
         <h3 className="card-title">This is JINX!</h3>
         <p className="card-text">Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx Jinx</p>
         <a href="https://arcane.fandom.com/wiki/Jinx" className="button">Jinx!</a>
