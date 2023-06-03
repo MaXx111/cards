@@ -5,4 +5,31 @@
   text-align: center;
 }
 
+#root {
+  display: flex;
+  align-items: center;
+}
 
+.card {
+  background-color: beige;
+  border: 1px solid rosybrown;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.card-body {
+  margin: 20px;
+}
+
+.card-title {
+  color: #000;
+}
+
+.card-text {
+  color: #000;
+}
+
+.card-img-top {
+  width: 288px;
+  border-radius: 5px;
+}
